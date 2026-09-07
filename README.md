@@ -43,4 +43,5 @@ NLP-Project/
 
 ## Author
 
-Kevin
+Kevin John Samuel
+24UBC241
