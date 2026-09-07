@@ -1,0 +1,61 @@
+review,sentiment
+"This product is amazing",Positive
+"Excellent quality and fast delivery",Positive
+"I love this item",Positive
+"Very satisfied with the purchase",Positive
+"Works perfectly as expected",Positive
+"Great value for money",Positive
+"Highly recommended",Positive
+"The best product I have bought",Positive
+"Fantastic quality and performance",Positive
+"Very useful and easy to use",Positive
+"Terrible product",Negative
+"Waste of money",Negative
+"Very disappointed",Negative
+"Poor quality material",Negative
+"Stopped working after one day",Negative
+"Not worth the price",Negative
+"Bad experience with this product",Negative
+"Extremely dissatisfied",Negative
+"The product arrived damaged",Negative
+"Would not recommend to anyone",Negative
+"Good product and excellent support",Positive
+"Easy to install and use",Positive
+"Very happy with the results",Positive
+"Outstanding performance",Positive
+"The product exceeded my expectations",Positive
+"Durable and reliable",Positive
+"Excellent packaging and delivery",Positive
+"I am impressed with the quality",Positive
+"Five stars from me",Positive
+"Perfect purchase",Positive
+"Cheap quality and poor performance",Negative
+"The item broke quickly",Negative
+"Customer service was terrible",Negative
+"Completely useless",Negative
+"I regret buying this",Negative
+"Very low quality",Negative
+"Did not meet expectations",Negative
+"Product description was misleading",Negative
+"Defective item received",Negative
+"One of the worst purchases ever",Negative
+"Absolutely fantastic product",Positive
+"Really enjoyed using it",Positive
+"Great experience overall",Positive
+"Top-notch quality",Positive
+"Will definitely buy again",Positive
+"Reliable and efficient",Positive
+"The product is awesome",Positive
+"Very comfortable and useful",Positive
+"Highly satisfied customer",Positive
+"Excellent product for the price",Positive
+"Terrible customer support",Negative
+"The product failed after a week",Negative
+"Poor design and quality",Negative
+"Very frustrating to use",Negative
+"Not recommended",Negative
+"Completely disappointed",Negative
+"Looks cheap and feels cheap",Negative
+"Money wasted on this item",Negative
+"The quality is unacceptable",Negative
+"Bad purchase decision",Negative
